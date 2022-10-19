@@ -35,7 +35,7 @@ The query returns the session the player is queued for:
 To complete the matchmaking, run:
 
 ```console
-curl -d '{"username": "alice"}' localhost:8080/dev/match 
+curl -d '{"username": "bob"}' localhost:8080/dev/match 
 ```
 
 The query returns the completed session:
