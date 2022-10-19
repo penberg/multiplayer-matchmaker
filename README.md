@@ -1,6 +1,6 @@
 # Multiplayer Matchmaker
 
-This project implements a multiplayer matchmaker with ChiselStrike.
+This project implements a multiplayer matchmaking server for games with [ChiselStrike](http://github.com/chiselstrike/chiselstrike/).
 
 ## Getting Started
 
